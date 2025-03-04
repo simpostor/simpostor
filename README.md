@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Atharva Sankhe AKA simpostor</h1>
-<h3 align="center">A Passionate Programmer & Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Atharva Sankhe aka simpostor</h1>
+<h3 align="center">Passionate Coder & Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🔭 I’m currently working on **Data Analysis and Software Development**
@@ -36,6 +36,7 @@
 <img src="https://leetcard.jacoblin.cool/simpostor?ext=contest" width="300" />
 <img src="https://leetcard.jacoblin.cool/simpostor?ext=heatmap" width="300" />
 </p>
+
 
 <p>
 <img alt="Leetcode Badge" src="https://assets.leetcode.com/static_assets/others/2550.gif" width="150" />
