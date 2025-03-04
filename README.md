@@ -5,13 +5,13 @@
   <tr>
     <td>
       <p>
-        - 🔭 I’m currently working on **Data Analysis and Software Development**<br>
-        - 🌱 I’m currently diving deeper into **DSA & System Design**<br>
-        - 🔍 Ask me about **LLM Retrieval-Augmented Generation**<br>
-        - 💻 All of my projects are available at [GitHub](https://github.com/simpostor)<br>
-        - 📧 How to reach me: **atharvasankhe123@gmail.com**<br>
-        - 🎓 Know about my experiences on [GitHub](https://github.com/simpostor)<br>
-        - 🚀 Fun fact: **Binary search is just fancy guessing... but optimized!**
+        - 🔭 I’m currently working on <strong>Data Analysis and Software Development</strong><br>
+        - 🌱 I’m currently diving deeper into <strong>DSA & System Design</strong><br>
+        - 🔍 Ask me about <strong>LLM Retrieval-Augmented Generation</strong><br>
+        - 💻 All of my projects are available at <a href="https://github.com/simpostor"><strong>GitHub</strong></a><br>
+        - 📧 How to reach me: <strong>atharvasankhe123@gmail.com</strong><br>
+        - 🎓 Know about my experiences on <a href="https://github.com/simpostor"><strong>GitHub</strong></a><br>
+        - 🚀 Fun fact: <strong>Binary search is just fancy guessing... but optimized!</strong>
       </p>
     </td>
     <td>
