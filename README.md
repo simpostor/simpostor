@@ -57,11 +57,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=simpostor" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=activity" width="400" alt="LeetCode Activity" />
-  <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap" width="400" alt="LeetCode Heatmap" />
-
-</p>
 
 | LeetCode Activity | LeetCode Heatmap |
 |-------------------|-----------------|
