@@ -60,7 +60,10 @@
 <p>
   <img src="https://leetcard.jacoblin.cool/simpostor?ext=activity" width="400" alt="LeetCode Activity" />
   <img src="https://leetcard.jacoblin.cool/simpostor?ext=heatmap" width="400" alt="LeetCode Heatmap" />
+
 </p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap)
+
 
 <p>
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge 1" width="150" />
