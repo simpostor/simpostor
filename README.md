@@ -58,8 +58,7 @@
 </p>
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/simpostor?ext=activity" width="400" alt="LeetCode Activity" />
-  <img src="https://leetcard.jacoblin.cool/simpostor?ext=heatmap" width="400" alt="LeetCode Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=activity" width="400" alt="LeetCode Activity" />
   <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap" width="400" alt="LeetCode Heatmap" />
 
 </p>
