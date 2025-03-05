@@ -62,7 +62,11 @@
   <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap" width="400" alt="LeetCode Heatmap" />
 
 </p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap)
+
+| LeetCode Activity | LeetCode Heatmap |
+|-------------------|-----------------|
+| <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=activity" width="400" alt="LeetCode Activity" /> | <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap" width="400" alt="LeetCode Heatmap" /> |
+
 
 
 <p>
