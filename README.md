@@ -53,9 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simpostor&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=simpostor&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 | LeetCode Activity | LeetCode Heatmap |
