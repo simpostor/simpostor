@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simpostor&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=simpostor)](https://git.io/streak-stats)
 
 
 | LeetCode Activity | LeetCode Heatmap |
