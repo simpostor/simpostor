@@ -68,6 +68,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpostor&layout=donut" alt="Top Languages" />
 </p>  
 
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=simpostor&theme=dark&hide_border=true&card_width=700&card_height=200" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=simpostor&hide=issues&show_icons=true&rank_icon=github" alt="Simpostor's GitHub stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpostor&layout=donut" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
 
 | LeetCode Activity | LeetCode Heatmap |
 |-------------------|-----------------|
