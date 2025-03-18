@@ -73,11 +73,11 @@
 
 | GitHub Streak |
 |--------------|
-| <img src="https://nirzak-streak-stats.vercel.app?user=simpostor&theme=dark&hide_border=true&card_width=800" alt="GitHub Streak" width="800" /> |
+| <img src="https://nirzak-streak-stats.vercel.app?user=simpostor&theme=dark&hide_border=true&card_width=800" alt="GitHub Streak" width="900" /> |
 
 | GitHub Stats | Top Languages |
 |-------------|--------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=simpostor&theme=dark&hide=issues&show_icons=true&rank_icon=github" width="400" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpostor&layout=compact&theme=dark" width="400" alt="Top Languages" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=simpostor&theme=dark&hide=issues&show_icons=true&rank_icon=github" width="400" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpostor&layout=compact&theme=dark" width="350" alt="Top Languages" /> |
 
 ## 📊 LeetCode Stats
 
