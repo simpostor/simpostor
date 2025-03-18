@@ -54,8 +54,7 @@
 
 ## 📊 GitHub Stats
 
-<table style="width:100;">
-  <tr>
+<table>
     <td align="center" colspan="2">
       <img src="https://nirzak-streak-stats.vercel.app?user=simpostor&theme=dark&hide_border=true&card_width=800" alt="GitHub Streak" />
     </td>
