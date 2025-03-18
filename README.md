@@ -54,6 +54,7 @@
 </p>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=simpostor)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=simpostor)](https://git.io/streak-stats)
 
 
 
