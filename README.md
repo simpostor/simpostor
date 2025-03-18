@@ -49,24 +49,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=simpostor&hide=issues&show_icons=true&rank_icon=github" alt="Simpostor's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=simpostor&card_width=50" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-### 🚀 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpostor&layout=donut" alt="Top Languages" />
-</p>  
 
 ## 📊 GitHub Stats
 
