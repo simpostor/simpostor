@@ -51,7 +51,11 @@
 
 
 
-## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="40" />
+  <strong> GitHub Stats</strong>
+</p>
 
 <table>
   <tr>
@@ -69,59 +73,11 @@
   </tr>
 </table>
 
-
+## 📊 LeetCode Stats
 
 | LeetCode Activity | LeetCode Heatmap |
 |-------------------|-----------------|
 | <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=activity&height=400" width="400" alt="LeetCode Activity" /> | <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap&height=400" width="400" alt="LeetCode Heatmap" /> |
-
-
-## 📊 GitHub Stats
-
-<table width="800">
-  <tr>
-    <td colspan="2" align="center" style="padding: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="40" style="vertical-align: middle; margin-right: 8px;" />
-      <span style="font-size: 24px; font-weight: bold;">GitHub Stats</span>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app?user=simpostor&theme=dark&hide_border=true&card_width=800" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=simpostor&theme=dark&hide=issues&show_icons=true&rank_icon=github" alt="Simpostor's GitHub stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpostor&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-
-## 📊 LeetCode Stats
-
-<table width="800">
-  <tr>
-    <td colspan="2" align="center" style="padding: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.svg" alt="LeetCode Logo" width="40" style="vertical-align: middle; margin-right: 8px;" />
-      <span style="font-size: 24px; font-weight: bold;">LeetCode Stats</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=activity&height=400" width="400" alt="LeetCode Activity" />
-    </td>
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap&height=400" width="400" alt="LeetCode Heatmap" />
-    </td>
-  </tr>
-</table>
-
-
-
 
 
 
