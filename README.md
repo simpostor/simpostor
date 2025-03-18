@@ -49,14 +49,24 @@
   </a>
 </p>
 
-<p>
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=simpostor&hide=issues&show_icons=true&rank_icon=github" alt="Simpostor's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=simpostor" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+### 🚀 Top Languages
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simpostor&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=simpostor)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=simpostor)]
-![Simpostor's GitHub stats](https://github-readme-stats.vercel.app/api?username=simpostor&hide=issues&show_icons=true&rank_icon=github)
-
 
 
 
