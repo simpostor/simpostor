@@ -73,7 +73,7 @@
 
 | GitHub Streak |
 |--------------|
-| <img src="https://nirzak-streak-stats.vercel.app?user=simpostor&theme=dark&hide_border=true&card_width=800" alt="GitHub Streak" width="820" /> |
+| <img src="https://nirzak-streak-stats.vercel.app?user=simpostor&theme=dark&hide_border=true&card_width=800" alt="GitHub Streak" width="840" /> |
 
 | GitHub Stats | Top Languages |
 |-------------|--------------|
