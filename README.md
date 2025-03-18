@@ -74,42 +74,7 @@
 | <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=activity" width="400" alt="LeetCode Activity" /> | <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap" width="400" alt="LeetCode Heatmap" /> |
 
 
-## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=simpostor&hide=issues&show_icons=true&rank_icon=github" alt="Simpostor's GitHub stats" width="400"/>
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=simpostor" alt="GitHub Streak" width="400"/>
-    </td>
-  </tr>
-</table>
-
-### 🚀 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpostor&layout=donut" alt="Top Languages" width="400"/>
-</p>  
-
-## 🔥 LeetCode Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=activity" width="400" alt="LeetCode Activity" />
-    </td>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap" width="400" alt="LeetCode Heatmap" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge 1" width="150" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="LeetCode Badge 2" width="150" />
-</p>
 
 
 
