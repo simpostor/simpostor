@@ -56,7 +56,7 @@
 <table>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://nirzak-streak-stats.vercel.app?user=simpostor&hide_border=true&card_width=800" alt="GitHub Streak" />
+      <img src="https://nirzak-streak-stats.vercel.app?user=simpostor&theme=dark&hide_border=true&card_width=800" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
