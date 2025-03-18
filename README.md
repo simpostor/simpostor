@@ -71,11 +71,6 @@
 
 
 
-
-| LeetCode Activity | LeetCode Heatmap |
-|-------------------|-----------------|
-| <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=activity" width="400" alt="LeetCode Activity" /> | <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap" width="400" alt="LeetCode Heatmap" /> |
-
 | LeetCode Activity | LeetCode Heatmap |
 |-------------------|-----------------|
 | <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=activity&height=400" width="400" alt="LeetCode Activity" /> | <img src="https://leetcard.jacoblin.cool/simpostor?theme=dark&ext=heatmap&height=400" width="400" alt="LeetCode Heatmap" /> |
