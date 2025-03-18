@@ -55,7 +55,8 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=simpostor)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=simpostor)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simpostor)]
+![Simpostor's GitHub stats](https://github-readme-stats.vercel.app/api?username=simpostor&hide=issues&show_icons=true&rank_icon=github)
+
 
 
 
