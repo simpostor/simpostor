@@ -57,7 +57,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=simpostor&hide=issues&show_icons=true&rank_icon=github" alt="Simpostor's GitHub stats" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=simpostor" alt="GitHub Streak" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=simpostor&card_width=50" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -73,7 +73,7 @@
 <table>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=simpostor&theme=dark&hide_border=true&card_width=700&card_height=200" alt="GitHub Streak" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=simposto&theme=dark&hide_border=true&card_width=700&card_height=200" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
