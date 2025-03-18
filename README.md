@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=simpostor&hide=issues&show_icons=true&rank_icon=github" alt="Simpostor's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=simpostor&theme=dark&hide=issues&show_icons=true&rank_icon=github" alt="Simpostor's GitHub stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpostor&layout=donut" alt="Top Languages" />
