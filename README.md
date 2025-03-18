@@ -54,7 +54,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=simpostor&hide=issues&show_icons=true&rank_icon=github" alt="Simpostor's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpostor&layout=donut" alt="Simpostor's GitHub stats" />
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=simpostor" alt="GitHub Streak" />
@@ -67,8 +67,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simpostor&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-
 
 
 | LeetCode Activity | LeetCode Heatmap |
