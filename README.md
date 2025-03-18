@@ -51,11 +51,8 @@
 
 
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="40" style="filter: invert(100%);" />
-  <span style="font-size: 24px; font-weight: bold;"> GitHub Stats</span>
-</p>
 
+## 📊 GitHub Stats
 
 <table>
   <tr>
