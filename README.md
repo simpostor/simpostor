@@ -54,7 +54,7 @@
 </p>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=simpostor)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nirzak)]
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=simpostor)]
 ![Simpostor's GitHub stats](https://github-readme-stats.vercel.app/api?username=simpostor&hide=issues&show_icons=true&rank_icon=github)
 
 
