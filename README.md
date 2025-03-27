@@ -26,12 +26,13 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/atharva-k-sankhe" target="_blank">
-    <img src="https://brand.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png" alt="LinkedIn" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:atharvasankhe123@gmail.com" target="_blank">
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" height="30" width="40" />
   </a>
 </p>
+
 
 
 
