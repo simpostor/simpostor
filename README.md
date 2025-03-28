@@ -80,6 +80,32 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://nirzak-streak-stats.vercel.app?user=simpostor&theme=dark&hide_border=true&card_width=800" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=simpostor&theme=dark&hide=issues&show_icons=true&rank_icon=github" alt="Simpostor's GitHub stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpostor&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+        <img alt="GitHub Snake Animation" src="dist/github-snake.svg" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+
 
 ## 📊 LeetCode Stats
 
