@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # Allows manual trigger
 
 permissions:
-  contents: write  # ✅ Grant write permissions to push changes
+  contents: write  # ✅ Ensure workflow has write access
 
 jobs:
   generate:
@@ -20,18 +20,29 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-snake.svg
-            github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Move Files to Repo Root
+        run: |
+          mv dist/github-snake.svg .
+          mv dist/github-snake-dark.svg .
+
+      - name: List Generated Files (Debug)
+        run: ls -R || echo "No files generated"
 
       - name: Commit and Push Changes
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}  # ✅ Use Personal Access Token (PAT) for authentication
+          GH_PAT: ${{ secrets.GH_PAT }}  # ✅ Use Personal Access Token (PAT)
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}.git
-          
-          git add github-snake.svg github-snake-dark.svg
 
-          # ✅ Check if there are changes before committing
-          git diff --cached --quiet || (git commit -m "Updated snake animation" && git push origin main)
+          if [ -f github-snake.svg ] && [ -f github-snake-dark.svg ]; then
+            git add github-snake.svg github-snake-dark.svg
+            git commit -m "Updated snake animation"
+            git push origin main
+          else
+            echo "No SVG files found, skipping commit."
+          fi
