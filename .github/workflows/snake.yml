@@ -23,8 +23,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Move Files to Repo Root
+      - name: Ensure Permissions and Move Files
         run: |
+          chmod +x dist/*
           mv dist/github-snake.svg .
           mv dist/github-snake-dark.svg .
 
