@@ -20,20 +20,13 @@ jobs:
             github-snake.svg
             github-snake-dark.svg?palette=github-dark
 
-      - name: Upload Generated Files
-        uses: actions/upload-artifact@v3.1.2  # Use explicit version to avoid missing download info
-        with:
-          name: snake-animation
-          path: |
-            github-snake.svg
-            github-snake-dark.svg  # Ensure both files are uploaded
-
       - name: Commit and Push Changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Use PAT for push access
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Provide token for push access
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git checkout main  # Ensure we are on the main branch
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
           git add github-snake.svg github-snake-dark.svg
-          git diff --cached --quiet || (git commit -m "Updated snake animation" && git push origin main)
+          git commit -m "Updated snake animation" || echo "No changes to commit"
+          git push origin main
