@@ -66,6 +66,7 @@
 ## 📊 GitHub Stats
 
 <table>
+  <tr>
     <td align="center" colspan="2">
       <img src="https://nirzak-streak-stats.vercel.app?user=simpostor&theme=dark&hide_border=true&card_width=800" alt="GitHub Streak" />
     </td>
@@ -78,13 +79,17 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpostor&layout=compact&theme=dark" alt="Top Languages" />
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+        <img alt="GitHub Snake Animation" src="dist/github-snake.svg" />
+      </picture>
+    </td>
+  </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="dist/github-snake.svg" />
-</picture>
 
 
 
