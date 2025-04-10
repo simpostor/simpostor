@@ -6,7 +6,7 @@
     <td>
       <p>
         - 🔭 I’m currently working on <strong>Data Analysis and Software Development</strong><br>
-        - 🌱 I’m currently diving deeper into <strong>DSA & System Design</strong><br>
+        - 🌱 Diving deeper into <strong>DSA & System Design</strong><br>
         - 🔍 Ask me about <strong>LLM Retrieval-Augmented Generation</strong><br>
         - 💻 All of my projects are available at <a href="https://github.com/simpostor"><strong>GitHub</strong></a><br>
         - 📧 How to reach me: <strong>atharvasankhe123@gmail.com</strong><br>
